@@ -1,5 +1,5 @@
 ﻿# Revisions
-## 0.1.0 ALPHA
+## 0.1.1 ALPHA
 * Initial drop
 * Released for purposes of starting conversations
 * We expecting substantial (breaking) changes in short order;  please do not take a dependence until verson 1.0.0
